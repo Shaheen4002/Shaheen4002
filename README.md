@@ -65,16 +65,6 @@
 
 ---
 
-### GitHub Stats & Activity
-<div align="center">
-  <!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaheen4002&show_icons=true&theme=transparent&title_color=0ea5e9&text_color=a855f7&icon_color=0ea5e9&bg_color=0d1117" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaheen4002&layout=compact&theme=transparent&title_color=0ea5e9&text_color=a855f7&bg_color=0d1117" alt="Top Languages" />
-</div>
-
----
-
 <div align="center">
   <h3 style="color: #0ea5e9;">Let's Connect!</h3>
   <p style="color: #a855f7; max-width: 500px;">
