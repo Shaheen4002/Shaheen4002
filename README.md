@@ -63,8 +63,6 @@
 | **[React Doctor](#)** | Diagnostic tool for React applications to optimize performance and identify component issues. | `React` `JavaScript` `DevTools API` |
 | **[Project Management System](#)** | Cross-language backend system for managing complex project workflows efficiently. | `Laravel` `Flask` `Python` `MySQL` |
 
-> 💡 *Note: Replace the `#` in the project names above with your actual GitHub repository or live demo links.*
-
 ---
 
 ### 📊 GitHub Stats & Activity
