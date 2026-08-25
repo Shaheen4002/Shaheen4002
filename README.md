@@ -59,9 +59,9 @@
 | :--- | :--- | :--- |
 | **[WeStore](#)** | High-performance multi-tenant E-commerce API with advanced analytics and financial reporting. | `Laravel 11` `MySQL` `Sanctum` `Redis` |
 | **[BeeMaren Real Estate ERP](#)** | Full-stack SaaS ERP platform for real estate, supporting multiple branches, currencies, and languages. | `Full-Stack` `SaaS` `Multi-tenant` |
-| **[Chat Web App](#)** | Real-time messaging application with secure user authentication and instant delivery. | `React` `Express.js` `MongoDB` `Socket.io` |
+| **[Chat Web App](Chat-App)** | Real-time messaging application with secure user authentication and instant delivery. | `React` `Express.js` `MongoDB` `Socket.io` |
 | **[React Doctor](#)** | Diagnostic tool for React applications to optimize performance and identify component issues. | `React` `JavaScript` `DevTools API` |
-| **[Project Management System](#)** | Cross-language backend system for managing complex project workflows efficiently. | `Laravel` `Flask` `Python` `MySQL` |
+| **[Project Management System](PMS)** | Cross-language backend system for managing complex project workflows efficiently. | `Laravel` `Flask` `Python` `MySQL` |
 
 ---
 
