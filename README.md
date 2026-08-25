@@ -25,16 +25,16 @@
 
 ---
 
-### 🧑‍💻 About Me
-- 🌱 I’m currently a **Software Engineering Student** continuously expanding my skills in modern web technologies.
-- 💻 My journey started with HTML & CSS, and now I build robust **Backend systems** and dynamic **Full-Stack applications**.
-- 🚀 I enjoy contributing to open-source projects, learning new technologies, and exploring the latest web development trends.
-- 📍 Based in **Salamieh, Hama, Syria**.
-- 📊 **2+** Years Coding | **7+** Projects Completed | **5+** Tech Stacks Mastered
+### About Me
+-  I’m currently a **Software Engineering Student** continuously expanding my skills in modern web technologies.
+-  My journey started with HTML & CSS, and now I build robust **Backend systems** and dynamic **Full-Stack applications**.
+-  I enjoy contributing to open-source projects, learning new technologies, and exploring the latest web development trends.
+-  Based in **Salamieh, Hama, Syria**.
+-  **2+** Years Coding | **7+** Projects Completed | **5+** Tech Stacks Mastered
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=#0ea5e9" alt="React"/>
@@ -53,7 +53,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
@@ -65,18 +65,18 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
+### GitHub Stats & Activity
 <div align="center">
   <!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&title_color=0ea5e9&text_color=a855f7&icon_color=0ea5e9&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shaheen4002&show_icons=true&theme=transparent&title_color=0ea5e9&text_color=a855f7&icon_color=0ea5e9&bg_color=0d1117" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&title_color=0ea5e9&text_color=a855f7&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaheen4002&layout=compact&theme=transparent&title_color=0ea5e9&text_color=a855f7&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 ---
 
 <div align="center">
-  <h3 style="color: #0ea5e9;">Let's Connect! 🤝</h3>
+  <h3 style="color: #0ea5e9;">Let's Connect!</h3>
   <p style="color: #a855f7; max-width: 500px;">
     I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out!
   </p>
