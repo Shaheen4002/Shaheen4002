@@ -26,7 +26,7 @@
 ---
 
 ### About Me
--  I’m currently a **Software Engineering Student** continuously expanding my skills in modern web technologies.
+-  I’m a **Software Engineer** continuously expanding my skills in modern web technologies.
 -  My journey started with HTML & CSS, and now I build robust **Backend systems** and dynamic **Full-Stack applications**.
 -  I enjoy contributing to open-source projects, learning new technologies, and exploring the latest web development trends.
 -  Based in **Salamieh, Hama, Syria**.
@@ -57,7 +57,7 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[WeStore](#)** | High-performance multi-tenant E-commerce API with advanced analytics and financial reporting. | `Laravel 11` `MySQL` `Sanctum` `Redis` |
-| **[BeeMaren Real Estate ERP](#)** | Full-stack SaaS ERP platform for real estate, supporting multiple branches, currencies, and languages. | `Full-Stack` `SaaS` `Multi-tenant` |
+| **[WeEstate Real Estate ERP](#)** | Full-stack SaaS ERP platform for real estate, supporting multiple branches, currencies, and languages. | `Full-Stack` `SaaS` `Multi-tenant` |
 | **[Chat Web App](#)** | Real-time messaging application with secure user authentication and instant delivery. | `React` `Express.js` `MongoDB` `Socket.io` |
 | **[React Doctor](#)** | Diagnostic tool for React applications to optimize performance and identify component issues. | `React` `JavaScript` `DevTools API` |
 | **[Project Management System](#)** | Cross-language backend system for managing complex project workflows efficiently. | `Laravel` `Flask` `Python` `MySQL` |
