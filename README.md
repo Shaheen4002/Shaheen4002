@@ -2,7 +2,7 @@
   <h1 style="font-size: 3em; background: linear-gradient(to right, #0ea5e9, #a855f7); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 800; margin-bottom: 0;">
     Hi, I'm Shaheen Sharba 
   </h1>
-  <h3 style="color: #0ea5e9; margin-top: 5px;">Backend Developer & Software Engineering Student</h3>
+  <h3 style="color: #0ea5e9; margin-top: 5px;">Software Engineer & Full stack Developer</h3>
   <p style="color: #a855f7; font-weight: 500; max-width: 600px;">
     Passionate about creating responsive, user-friendly web applications and robust backend systems that solve real-world problems.
   </p>
